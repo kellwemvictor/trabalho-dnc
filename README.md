@@ -5,6 +5,6 @@ link sheet monkey: https://docs.google.com/spreadsheets/d/1_ilHYf29A9KWogFd4LtAc
 
 nome aluno: kellwem victor gomes tavares marreiros.
 
-ola estou enviando o trabalho de novo mais aqui no meu conputador ficou estranho as medidadas que me mandou pelas dicas mudei algumas coisas mais parece que ficou tao pequeno no meu pc o tamnaho da tela influencia alguma coisa ? tipo minha tela e de 42 polegadas do pc pensei que adaptava pra qualquer tela menos pra celular. espero que der certo :) pensei que tava bom aqui no pc ficou tao perfeito os tamahos. cliquei em especionar para diminuir a tela bom ficou legal agora nao aparece quebra de texto em dois esta tudo reto. espero que esteja bom nao mudei muita coisa por que ficou muito pequeno no meu pc coloquei a imagem de acordo com que me disse na dica mais ficou pqueno demais, coloquei magin: 0px para ficar alinhados com a tela espero que esteje mais o menos bonzinho o trabanho :)
+
 
 
